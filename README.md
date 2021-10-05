@@ -9,3 +9,4 @@ This Repo contains Explanation and Solution of different Problems on CodeForces.
 - [***Codeforces Round #739***](https://codeforces.com/contest/1560)
 - [***Codeforces Round #744 (Div. 3)***](https://codeforces.com/contest/1579)
 - [***Codeforces Round #745 (Div. 2)***](https://codeforces.com/contest/1581)
+- [*** Codeforces Round #746 (Div. 2)***](https://codeforces.com/contest/1592)
