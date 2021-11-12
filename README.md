@@ -14,3 +14,4 @@ This Repo contains Explanation and Solution of different Problems on CodeForces.
 - [***Codeforces Round #738 (Div. 2)***](https://codeforces.com/contest/1559)
 - [***Codeforces Round #751 (Div. 2)***](https://codeforces.com/contest/1602)
 - [***Codeforces Round #753 (Div. 3)***](https://codeforces.com/contest/1607)
+- [***Codeforces Round #754 (Div. 2)***](https://codeforces.com/contest/1605)
