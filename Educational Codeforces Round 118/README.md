@@ -2,3 +2,4 @@
 
 - [***Long Comparison***](https://codeforces.com/contest/1613/problem/A)
 - [***Absent Remainder***](https://codeforces.com/contest/1613/problem/B)
+- [***Poisoned Dagger***](https://codeforces.com/contest/1613/problem/C)
