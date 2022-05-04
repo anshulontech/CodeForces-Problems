@@ -22,3 +22,4 @@ This Repo contains Explanation and Solution of different Problems on CodeForces.
 - [***Educational Codeforces Round 123 (Rated for Div. 2)***](https://codeforces.com/contest/1644)
 - [***Codeforces Round #775 (Div. 2, based on Moscow Open Olympiad in Informatics)***](https://codeforces.com/contest/1649)
 - [***Codeforces Round #786 (Div. 3)***](https://codeforces.com/contest/1674)
+- [***Codeforces Round #785 (Div. 2)***](https://codeforces.com/contest/1673)
